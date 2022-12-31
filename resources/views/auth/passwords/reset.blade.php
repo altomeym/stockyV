@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +9,7 @@
     <link rel=icon href=/images/favicon.ico>
     <link rel="stylesheet" href="/css/master.css">
 
-    <title>Stocky | Ultimate Inventory With POS</title>
+    <title>MYK Company</title>
   </head>
 
   <body class="text-left">
@@ -17,6 +18,7 @@
         We're sorry Closed</strong
       >
     </noscript>
+    
 
     <!-- built files will be auto injected -->
     <div class="loading_wrap" id="loading_wrap">

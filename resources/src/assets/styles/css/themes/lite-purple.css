@@ -16494,8 +16494,8 @@ a.typo_link.text-gray-900:after {
   .layout-sidebar-large .main-header .logo {
     width: 120px; }
     .layout-sidebar-large .main-header .logo img {
-      width: 60px;
-      height: 60px;
+      width: 100px;
+      height: 75px;
       margin: 0 auto;
       display: block; }
   .layout-sidebar-large .main-header .header-icon {
