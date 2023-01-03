@@ -23,11 +23,11 @@ class SettingSeeder extends Seeder
                 'is_invoice_footer' => 0,
                 'invoice_footer' => Null,
                 'warehouse_id' => Null,
-                'CompanyName' => 'Stocky',
-                'CompanyPhone' => '6315996770',
-                'CompanyAdress' => '3618 Abia Martin Drive',
-                'footer' => 'Stocky - Ultimate Inventory With POS',
-                'developed_by' => 'Stocky',
+                'CompanyName' => 'MYK',
+                'CompanyPhone' => '012',
+                'CompanyAdress' => 'Egypt',
+                'footer' => 'MYK Company for systems services',
+                'developed_by' => 'MYK Company',
                 'logo' => 'logo-default.png',
             )
             

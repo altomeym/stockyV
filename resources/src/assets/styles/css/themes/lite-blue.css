@@ -21180,7 +21180,7 @@ ngb-rating .half {
           font-size: 18px;
           line-height: 24px;
           width: 32px;
-          color: #ffff#8B5CF6
+          color: #ffff#8B5CF6;
           background: #663399;
           border-radius: 0 0 0 6px; }
         .customizer .customizer-body .layouts .layout-box.active {
@@ -24687,7 +24687,7 @@ span.ul-widget-app__find-font {
   position: absolute;
   /* left: 0; */
   top: 4px;
-  right: #8B5CF6
+  right: #8B5CF6;
   color: #663399;
   bottom: 0;
   font-size: 20px; }

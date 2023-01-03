@@ -5,18 +5,18 @@
     <div class="app-footer">
       <div class="row">
         <div class="col-md-9">
-          <p><strong>{{currentUser.footer}}</strong></p>
+          <p><strong>MYK Company</strong></p>
         </div>
       </div>
       <div
         class="footer-bottom border-top pt-3 d-flex flex-column flex-sm-row align-items-center"
       >
         <div class="d-flex align-items-center">
-          <img class="logo" :src="'/images/'+currentUser.logo" alt width="60" height="60">
+          <img class="logo" :src="'/images/'+currentUser.logo" alt width="100" height="75">
           <div>
             <div>
-              <p class="m-0">&copy; {{ new Date().getFullYear() }} {{$t('developed_by')}} {{currentUser.developed_by}}</p>
-              <p class="m-0">All rights reserved - v4.0.4</p>
+              <p class="m-0">&copy; {{ new Date().getFullYear() }} {{$t('developed_by MYK Company')}}</p>
+              <p class="m-0">All rights reserved by MYK</p>
             </div>
           </div>
           <span class="flex-grow-1"></span>

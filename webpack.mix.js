@@ -17,7 +17,8 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 
 mix.js('resources/src/main.js', 'public').js('resources/src/login.js', 'public')
-    .vue();
+    .mix.js('resources/js/app.js', 'public/js')
+    .sass('resources/sass/app.scss', 'public/css');;
 
     mix.webpackConfig({
         output: {
